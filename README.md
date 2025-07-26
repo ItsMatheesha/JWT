@@ -3,17 +3,17 @@
 
 > [!IMPORTANT]
 > This package is no longer maintained on deno.land/x.  
-> Please use the npm package (`@4zeroiv/jwt`) or JSR version moving forward.
+> Please use the npm package (`@matheesha/jwt`) or JSR version moving forward.
 
 ![Github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
-![Repo](https://img.shields.io/badge/4ZeroIV-JWT-red)
-![GitHub License](https://img.shields.io/github/license/4zeroiv/jwt)
-![GitHub top language](https://img.shields.io/github/languages/top/4zeroiv/jwt)
+![Repo](https://img.shields.io/badge/ItsMatheesha-JWT-red)
+![GitHub License](https://img.shields.io/github/license/ItsMatheesha/jwt)
+![GitHub top language](https://img.shields.io/github/languages/top/ItsMatheesha/jwt)
 
 [![NPM](https://skills.syvixor.com/api/icons?i=npm)](https://www.npmjs.com/package/@4zeroiv/jwt)
 [![JSR](https://skills.syvixor.com/api/icons?i=jsr)](https://jsr.io/@4zeroiv/jwt/settings)
 
-[Live Demo](https://404-jwt.vercel.app/)
+[Live Demo](https://jw-sb.vercel.app/)
 
 ## 🔻 Installation
 ```bash
@@ -24,11 +24,7 @@ deno add jsr:@4zeroiv/jwt
 ```
 
 ### Importing from published packages
-- **Deno - deno.land/x:**
-```ts
-import { sign } from "https://deno.land/x/jwtx/mod.ts";
 
-```
 - **Deno - JSR**
 ```ts
 import * as jwt from "jsr:@4zeroiv/jwt";
