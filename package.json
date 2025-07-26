@@ -1,0 +1,51 @@
+{
+  "name": "@matheesha/jwt",
+  "version": "0.1.0",
+  "main": "dist/mod.js",
+  "module": "dist/mod.mjs",
+  "types": "dist/mod.d.ts",
+  "scripts": {
+    "test": "deno test --unstable --allow-net test.ts",
+    "build": "tsup mod.ts --format esm,cjs --dts --out-dir dist"
+  },
+  "exports": {
+    ".": {
+      "import": "./dist/mod.mjs",
+      "require": "./dist/mod.js",
+      "types": "./dist/mod.d.ts"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4zeroiv/jwt.git"
+  },
+  "files": [
+    "dist",
+    "package.json",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "jwt",
+    "json",
+    "web",
+    "token",
+    "auth",
+    "authentication",
+    "js",
+    "javascript",
+    "security",
+    "token",
+    "library"
+  ],
+  "author": "4zeroiv",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/4zeroiv/jwt/issues"
+  },
+  "homepage": "https://github.com/4zeroiv/jwt#readme",
+  "description": "A JWT (JSON Web Token) library written in TypeScript which supports Deno, Node.Js, Cloudflare Workers & Bun",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
