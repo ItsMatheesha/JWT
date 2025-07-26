@@ -18,20 +18,20 @@
 ## 🔻 Installation
 ```bash
 # From NPM
-npm i @4zeroiv/jwt
+npm i @matheesha/jwt
 # From JSR (JavaScript Registry)
-deno add jsr:@4zeroiv/jwt
+deno add jsr:@matheesha/jwt
 ```
 
 ### Importing from published packages
 
 - **Deno - JSR**
 ```ts
-import * as jwt from "jsr:@4zeroiv/jwt";
+import * as jwt from "jsr:@matheesha/jwt";
 ```
 - **NPM:**
 ```ts
-import { sign } from "@4zeroiv/jwt";
+import { sign } from "@matheesha/jwt";
 ```
 
 ### Usage
@@ -152,4 +152,4 @@ const payload = decodePayload(token)
 
 
 ### 📄 License
-MIT — © 2025 [4zeroiv](https://github.com/4zeroiv)
+MIT — © 2025 [ItsMatheesha](https://github.com/ItsMatheesha)
