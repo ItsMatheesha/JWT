@@ -1,4 +1,4 @@
-# JWT by 4zeroiv
+# JWT by Matheesha
 > A JWT (JSON Web Token) library written in TypeScript which supports Deno, Node.Js, Cloudflare Workers & Bun
 
 > [!IMPORTANT]
