@@ -39,9 +39,9 @@ import { sign } from "@matheesha/jwt";
 ```ts
 //the function expects a object as the payload, pass a JavaScript object to get the expected result
 //✅Correct ex:
-const payload = { sub: "1234", name: "4zeroiv", exp: 1753195572 }
+const payload = { sub: "1234", name: "Matheesha", exp: 1753195572 }
 //❌Wrong ex:
-const payload = '{ "sub": "1234", "name": "4zeroiv", "exp": "1753195572" }'
+const payload = '{ "sub": "1234", "name": "Matheesha", "exp": "1753195572" }'
 ```
 ```ts
 //the header is added by the function itself and is formatted as below:
@@ -124,7 +124,7 @@ const payload = decodePayload(token)
 //ex: Response: 
 {
     sub: "4321",
-    name: "4zeroiv",
+    name: "Matheesha",
     exp: 1753195572,
     admin: true
 }
