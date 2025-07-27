@@ -10,8 +10,8 @@
 ![GitHub License](https://img.shields.io/github/license/ItsMatheesha/jwt)
 ![GitHub top language](https://img.shields.io/github/languages/top/ItsMatheesha/jwt)
 
-[![NPM](https://skills.syvixor.com/api/icons?i=npm)](https://www.npmjs.com/package/@4zeroiv/jwt)
-[![JSR](https://skills.syvixor.com/api/icons?i=jsr)](https://jsr.io/@4zeroiv/jwt/settings)
+[![NPM](https://skills.syvixor.com/api/icons?i=npm)](https://www.npmjs.com/package/@matheesha/jwt)
+[![JSR](https://skills.syvixor.com/api/icons?i=jsr)](https://jsr.io/@matheesha/jwt/settings)
 
 [Live Demo](https://jw-sb.vercel.app/)
 
