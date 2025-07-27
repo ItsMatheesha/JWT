@@ -5,7 +5,7 @@
   "module": "dist/mod.mjs",
   "types": "dist/mod.d.ts",
   "scripts": {
-    "test": "deno test --unstable --allow-net test.ts",
+    "test": "deno test usage.ts",
     "build": "tsup mod.ts --format esm,cjs --dts --out-dir dist"
   },
   "exports": {
