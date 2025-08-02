@@ -1,5 +1,5 @@
 {
-  "name": "@matheesha/jwt",
+  "name": "jwtkn",
   "version": "0.1.0",
   "main": "dist/mod.js",
   "module": "dist/mod.mjs",

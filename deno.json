@@ -1,5 +1,5 @@
 {
-  "name": "@matheesha/jwt",
+  "name": "@usr/jwt",
   "version": "0.1.0",
   "license": "MIT",
   "exports": "./mod.ts",

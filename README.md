@@ -1,37 +1,39 @@
-# JWT by Matheesha
+# JWT
 > A JWT (JSON Web Token) library written in TypeScript which supports Deno, Node.Js, Cloudflare Workers & Bun
 
 > [!IMPORTANT]
 > This package is no longer maintained on deno.land/x.  
-> Please use the npm package (`@matheesha/jwt`) or JSR version moving forward.
+> Please use the npm package (<a href="https://www.npmjs.com/package/jwtkn">jwtkn</a>) or JSR version moving forward.
 
-![Github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/ItsMatheesha/jwt)
 ![Repo](https://img.shields.io/badge/ItsMatheesha-JWT-red)
 ![GitHub License](https://img.shields.io/github/license/ItsMatheesha/jwt)
 ![GitHub top language](https://img.shields.io/github/languages/top/ItsMatheesha/jwt)
 
-[![NPM](https://skills.syvixor.com/api/icons?i=npm)](https://www.npmjs.com/package/@matheesha/jwt)
-[![JSR](https://skills.syvixor.com/api/icons?i=jsr)](https://jsr.io/@matheesha/jwt/settings)
+[![NPM](https://skills.syvixor.com/api/icons?i=npm)](https://www.npmjs.com/package/jwtkn)
+[![JSR](https://skills.syvixor.com/api/icons?i=jsr)](https://jsr.io/@usr/jwt)
 
 [Live Demo](https://jw-sb.vercel.app/)
 
 ## 🔻 Installation
+- **From NPM**
 ```bash
-# From NPM
-npm i @matheesha/jwt
-# From JSR (JavaScript Registry)
-deno add jsr:@matheesha/jwt
+npm i jwtkn
+```
+- **From JSR (JavaScript Registry)**
+```bash
+deno add jsr:@usr/jwt
 ```
 
 ### Importing from published packages
 
-- **Deno - JSR**
+- **JSR**
 ```ts
-import * as jwt from "jsr:@matheesha/jwt";
+import * as jwt from "jsr:@usr/jwt";
 ```
 - **NPM:**
 ```ts
-import { sign } from "@matheesha/jwt";
+import { sign } from "jwtkn";
 ```
 
 ### Usage
