@@ -11,7 +11,7 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/ItsMatheesha/jwt)
 
 [![NPM](https://skills.syvixor.com/api/icons?i=npm)](https://www.npmjs.com/package/jwtkn)
-[![JSR](https://skills.syvixor.com/api/icons?i=jsr)](https://jsr.io/@usr/jwt)
+<!-- [![JSR](https://skills.syvixor.com/api/icons?i=jsr)](https://jsr.io/@usr/jwt) -->
 
 [Live Demo](https://jw-sb.vercel.app/)
 
