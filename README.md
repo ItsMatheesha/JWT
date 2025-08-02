@@ -13,7 +13,7 @@
 [![NPM](https://skills.syvixor.com/api/icons?i=npm)](https://www.npmjs.com/package/jwtkn)
 <!-- [![JSR](https://skills.syvixor.com/api/icons?i=jsr)](https://jsr.io/@usr/jwt) -->
 
-[Live Demo](https://jw-sb.vercel.app/)
+[Live Demo](https://jwt-sb.vercel.app/)
 
 ## 🔻 Installation
 - **From NPM:**
