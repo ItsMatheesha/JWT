@@ -3,7 +3,7 @@
 
 > [!IMPORTANT]
 > This package is no longer maintained on deno.land/x.  
-> Please use the npm package (<a href="https://www.npmjs.com/package/jwtkn">jwtkn</a>) or JSR version moving forward.
+> Please use the npm package (<a href="https://www.npmjs.com/package/jwtkn">jwtkn</a>) moving forward.
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/ItsMatheesha/jwt)
 ![Repo](https://img.shields.io/badge/ItsMatheesha-JWT-red)
