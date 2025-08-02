@@ -16,21 +16,21 @@
 [Live Demo](https://jw-sb.vercel.app/)
 
 ## 🔻 Installation
-- **From NPM**
+- **From NPM:**
 ```bash
 npm i jwtkn
 ```
-- **From JSR (JavaScript Registry)**
+<!-- - **From JSR (JavaScript Registry)**
 ```bash
 deno add jsr:@usr/jwt
-```
+``` -->
 
-### Importing from published packages
+### Importing the package
 
-- **JSR**
+<!-- - **JSR**
 ```ts
 import * as jwt from "jsr:@usr/jwt";
-```
+``` -->
 - **NPM:**
 ```ts
 import { sign } from "jwtkn";

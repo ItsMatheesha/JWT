@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/4zeroiv/jwt.git"
+    "url": "git+https://github.com/ItsMatheesha/jwt.git"
   },
   "files": [
     "dist",
@@ -41,9 +41,9 @@
   "author": "4zeroiv",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/4zeroiv/jwt/issues"
+    "url": "https://github.com/ItsMatheesha/jwt/issues"
   },
-  "homepage": "https://github.com/4zeroiv/jwt#readme",
+  "homepage": "https://github.com/ItsMatheesha/jwt#readme",
   "description": "A JWT (JSON Web Token) library written in TypeScript which supports Deno, Node.Js, Cloudflare Workers & Bun",
   "devDependencies": {
     "typescript": "^5.8.3"
